@@ -1,0 +1,11 @@
+Model Information:
+* title:	New Holland T7 tractor
+* source:	https://sketchfab.com/3d-models/new-holland-t7-tractor-286ca000c2eb42ccbf2238e1351fbf66
+* author:	Lassi Kaukonen (https://sketchfab.com/thesidekick)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "New Holland T7 tractor" (https://sketchfab.com/3d-models/new-holland-t7-tractor-286ca000c2eb42ccbf2238e1351fbf66) by Lassi Kaukonen (https://sketchfab.com/thesidekick) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
